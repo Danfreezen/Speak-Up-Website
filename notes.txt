@@ -1,0 +1,29 @@
+TODO
+
+1. Organize
+    Create folders & pages
+
+2. Landing page
+    Navbar
+    Hero with image carousel
+    Features
+    Testimonials
+    Footer
+
+3. Programs page
+    Hero
+    Features
+    "How we work" grid
+
+4. Approach page
+    Hero
+    Features
+    FAQ(?)
+
+5. About us page
+    Headers & Columns
+    Content
+
+6. Contact us page
+    Column & content
+    Form
