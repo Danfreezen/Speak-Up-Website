@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Lobster&family=Open+Sans:wght@300&family=Playfair+Display:wght@500&family=Raleway:wght@300&display=swap');
 
+/* Utility */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -40,7 +42,7 @@ p {
   }
 
 .container {
-    max-width: 1300px;
+    max-width: 1400px;
     margin: 0 auto;
     overflow: auto;
     padding: 0 40px;
@@ -48,6 +50,13 @@ p {
 
 img {
     width: 100%;
+}
+
+button {
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+    font-weight: bold;
 }
 
 /* Navbar */
@@ -84,7 +93,7 @@ img {
 
 .hero-wrapper {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
 }
 
@@ -95,6 +104,7 @@ img {
     color: white;
     position: absolute;
     padding: 20px;
+    margin: 20px;
 }
 
 /* Features Section */
@@ -109,6 +119,7 @@ img {
     border-radius: 10px;
     padding: 20px;
     margin: 10px;
+    margin-bottom: 20px;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
     display: flex;
 }
@@ -123,6 +134,8 @@ img {
 
 .testimonial-wrapper {
     display: flex;
+    margin: 10px;
+    margin-bottom: 50px;
 }
 
 .testimonial-item {
@@ -138,6 +151,7 @@ img {
 
 .footer-wrap {
     background-color: #333;
+    height: 250px;
     color: white;
     margin: 0 auto;
     overflow: auto;
@@ -146,5 +160,5 @@ img {
 .footer-nav {
     display: flex;
     justify-content: space-between;
-    margin: 20px 100px;
+    margin: 30px 100px;
 }
