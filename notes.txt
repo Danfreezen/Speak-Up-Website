@@ -5,10 +5,15 @@ TODO
 
 2. Landing page
     Navbar
+        Still need logo... 
     Hero with image carousel
+        Still need image and Opening text
     Features
+        Still need image
     Testimonials
+        Still need image
     Footer
+        Still need to size and scale things properly
 
 3. Programs page
     Hero
@@ -27,3 +32,4 @@ TODO
 6. Contact us page
     Column & content
     Form
+
