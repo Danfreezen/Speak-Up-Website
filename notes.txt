@@ -19,17 +19,22 @@ TODO
     Hero
     Features
     "How we work" grid
+    Pricing tiers
+    Features / pricing grid comparison
 
-4. Approach page
+4. Methods page
     Hero
     Features
-    FAQ(?)
+    Example Program
 
 5. About us page
-    Headers & Columns
+    Row Layout
     Content
+    Meet Teachers Grid
 
 6. Contact us page
-    Column & content
+    Column layout
+    Contact info
     Form
+    Thank you page
 
