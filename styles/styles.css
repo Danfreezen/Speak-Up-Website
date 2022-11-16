@@ -151,7 +151,7 @@ button {
 
 .footer-wrap {
     background-color: #333;
-    height: 250px;
+    height: 300px;
     color: white;
     margin: 0 auto;
     overflow: auto;
@@ -160,5 +160,9 @@ button {
 .footer-nav {
     display: flex;
     justify-content: space-between;
-    margin: 30px 100px;
+    margin: 20px 20px;
+}
+
+.company-footer {
+    max-width: 150px;
 }
